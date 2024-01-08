@@ -204,13 +204,6 @@ def result():
             ss += 1
 
 if __name__ == "__main__":
-    """  
-    start = time.time()
-    startTime = start
-    end = time.time()
-    endTime = end
-    print(end - start) 
-    """  
     #frames()
     #procs()
     result()
