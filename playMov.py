@@ -7,11 +7,11 @@ def ply(s,e,r,f,pat):
     m=e/f
     print(n, m)
     p = pat+".mp4"
-    dir=os.path.join("C:\\Users\\bibas\\Music\\videos",p)
+    dir=os.path.join("your path\\videos",p)
     clip = VideoFileClip(dir).subclip(n,m)
     
     #clip.preview()
-    clip.write_videofile(f"C:\\Users\\bibas\\Music\\result\\{pat}{r}.mp4")
+    clip.write_videofile(f"your path\\result\\{pat}{r}.mp4")
 
 
 """
