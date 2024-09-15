@@ -1,4 +1,4 @@
-Architecture:  
+#Architecture:  
 
 ![ar](https://github.com/bibasrairockz/Video-Search-System/assets/130794180/b4219de7-cf23-45e7-8f83-b3d6fb23fbc3)
 
